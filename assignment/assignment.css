@@ -1,0 +1,43 @@
+
+td {
+
+    padding: 0.5rem;
+    border: 13px solid;
+    border-bottom: none;
+    border-top: none;
+    border-left: none; 
+   
+   
+
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: underline;
+    text-align: center;  
+   
+}
+
+h4 {
+    font-weight:lighter;
+
+}
+
+td {
+    vertical-align: top;
+    width: 30%; 
+    height: 100vh;
+  }
+
+.foo {
+    font-family: 'Open Sans bolder', sans-serif;
+    text-decoration: overline underline;
+    text-decoration-thickness: 5px;
+}
+
+.social {
+    text-align: center;
+
+}
+
+
